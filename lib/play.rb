@@ -37,7 +37,9 @@ end
 
   
 def play(board)
+  loop do 
   puts turn(board)
+  
 end
   
   
