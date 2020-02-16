@@ -36,4 +36,10 @@ def turn(board)
 end
 
   
+def play(board, index, current_player
+  puts turn(board)
+end
+  
+  
+  
 # Define your play method below
