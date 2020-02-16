@@ -36,7 +36,8 @@ def turn(board)
 end
 
   
-
+def play
+  
   
   
   
