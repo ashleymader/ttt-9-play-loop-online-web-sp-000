@@ -35,6 +35,7 @@ def turn(board)
   end
 end
 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "] 
 def play(board)
   counter = 0
   loop do
