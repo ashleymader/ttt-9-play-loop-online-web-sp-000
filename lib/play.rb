@@ -38,7 +38,8 @@ end
 def play(board)
   int = 0 
   while int <=9 
-  
+  puts turn(board)
+end
   
   
   
